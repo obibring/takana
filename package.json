@@ -17,7 +17,7 @@
     "underscore": "~1.5.2",
     "nssocket": "~0.5.1",
     "log4js": "~0.6.9",
-    "node-sass": "~1.0.1",
+    "node-sass": "~3.2.0",
     "connect": "~2.12.0",
     "shelljs": "~0.2.6",
     "q": "~1.0.0",
